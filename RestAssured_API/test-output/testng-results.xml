@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-28T06:51:49Z" name="Default suite" finished-at="2021-10-28T06:51:51Z" duration-ms="2342">
+    <groups>
+    </groups>
+    <test started-at="2021-10-28T06:51:49Z" name="Default test" finished-at="2021-10-28T06:51:51Z" duration-ms="2342">
+      <class name="com.RestAssured.CreateProject_JSON_File">
+        <test-method signature="createProject()[pri:0, instance:com.RestAssured.CreateProject_JSON_File@7daa0fbd]" started-at="2021-10-28T06:51:49Z" name="createProject" finished-at="2021-10-28T06:51:51Z" duration-ms="2314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProject -->
+      </class> <!-- com.RestAssured.CreateProject_JSON_File -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
