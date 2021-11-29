@@ -31,7 +31,9 @@ public class StaticResponse {
 		Assert.assertEquals(actData, expData);
 		System.out.println(actData + "data verified");
 		
-		res.then().log().all();
+	//	res.then().log().all();
+		res.prettyPeek();
+		res.prettyPrint();
 		
 	}
 }

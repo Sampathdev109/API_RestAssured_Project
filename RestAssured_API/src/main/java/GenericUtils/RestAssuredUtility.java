@@ -6,7 +6,7 @@ import static io.restassured.RestAssured.port;
 import io.restassured.response.Response;
 
 /**
- * This class contains methods pertaining to RestAssured
+ * This class contains methods pertaining to RestAssured, To get the data from the specified path.
  * @author SAMPATHDEV
  * @param <Response>
  *

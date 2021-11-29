@@ -1,5 +1,8 @@
 package GenericUtils;
 
+/*
+ * This code is for POJO class.
+ */
 	public class ProjectLibrary {
 
 		//create the global variable
@@ -18,8 +21,17 @@ package GenericUtils;
 		this.teamSize = teamSize;
 
 		}
+		
+		public String getCreated() {
+			
+			return createdBy;
+			
+		}
 
-
+		public void setCreatedBy(String createdBy) {
+			
+			this.createdBy = createdBy;
+		}
 
 
 		}
